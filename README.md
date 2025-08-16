@@ -1,0 +1,5 @@
+- Opens an Excel file in the background  
+- Extracts charts from a chosen sheet  
+- Saves each chart as an image  
+- Adds charts to a PDF, one per page  
+- Removes temporary files after saving  
